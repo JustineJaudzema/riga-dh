@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Nov 2020 13:50:19 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 20 Nov 2020 13:50:19 +0200</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>###The use of digital methods for analysing folk legends about immured
+Digital humanities is an interdisciplinary area of scholarly activity where digital technologies and humanities are combined. The use of computational methods for research has been a big part of humanities in past few decades all over the world. Unfortunately, in Latvia, using digital methods in research is not as common, although the environment for such a research is widely developed – books, newspapers and archival materials are available in digital format.</description>
+    </item>
+    
+  </channel>
+</rss>
